@@ -2286,10 +2286,11 @@ egg-schedule@^3.6.0:
     safe-timers "^1.1.0"
     utility "^1.13.1"
 
-egg-scripts@^2.5.0:
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/egg-scripts/-/egg-scripts-2.11.0.tgz#61c94d7c204ca5f887cc522dd67f95f722169741"
+egg-scripts@^2.12.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/egg-scripts/-/egg-scripts-2.13.0.tgz#3e88262e3161e9003cf07e6dbd0074870e65c6cb"
   dependencies:
+    await-event "^2.1.0"
     common-bin "^2.8.0"
     debug "^4.1.0"
     egg-utils "^2.4.1"
@@ -4024,8 +4025,8 @@ lodash.once@^4.0.0:
   resolved "https://registry.npmjs.org/lodash.once/-/lodash.once-4.1.1.tgz#0dd3971213c7c56df880977d504c88fb471a97ac"
 
 lodash@^4.17.11, lodash@^4.17.2, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.3.0:
-  version "4.17.11"
-  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
 
 long@^4.0.0:
   version "4.0.0"
