@@ -2286,10 +2286,11 @@ egg-schedule@^3.6.0:
     safe-timers "^1.1.0"
     utility "^1.13.1"
 
-egg-scripts@^2.5.0:
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/egg-scripts/-/egg-scripts-2.11.0.tgz#61c94d7c204ca5f887cc522dd67f95f722169741"
+egg-scripts@^2.12.0:
+  version "2.15.2"
+  resolved "https://registry.yarnpkg.com/egg-scripts/-/egg-scripts-2.15.2.tgz#ed580e7e86534b098b2b21989acff2e53b541125"
   dependencies:
+    await-event "^2.1.0"
     common-bin "^2.8.0"
     debug "^4.1.0"
     egg-utils "^2.4.1"
@@ -2882,8 +2883,8 @@ extend-shallow@^3.0.0, extend-shallow@^3.0.2:
     is-extendable "^1.0.1"
 
 extend2@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/extend2/-/extend2-1.0.0.tgz#0425a989b4dac2a486a32257f5140103756a7a3c"
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/extend2/-/extend2-1.0.1.tgz#ba9eee03bd6608995990c309b8c285316671c221"
 
 extend@^3.0.0, extend@^3.0.1, extend@~3.0.2:
   version "3.0.2"
