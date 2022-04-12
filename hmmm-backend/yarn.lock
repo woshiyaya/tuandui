@@ -2286,10 +2286,11 @@ egg-schedule@^3.6.0:
     safe-timers "^1.1.0"
     utility "^1.13.1"
 
-egg-scripts@^2.5.0:
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/egg-scripts/-/egg-scripts-2.11.0.tgz#61c94d7c204ca5f887cc522dd67f95f722169741"
+egg-scripts@^2.12.0:
+  version "2.16.0"
+  resolved "https://registry.yarnpkg.com/egg-scripts/-/egg-scripts-2.16.0.tgz#0d14d6098783877f4defb19054ada311d287a4a0"
   dependencies:
+    await-event "^2.1.0"
     common-bin "^2.8.0"
     debug "^4.1.0"
     egg-utils "^2.4.1"
@@ -5956,8 +5957,8 @@ upper-case@^1.0.3, upper-case@^1.1.0, upper-case@^1.1.1, upper-case@^1.1.3:
   resolved "https://registry.npmjs.org/upper-case/-/upper-case-1.1.3.tgz#f6b4501c2ec4cdd26ba78be7222961de77621598"
 
 urijs@^1.19.0:
-  version "1.19.1"
-  resolved "https://registry.npmjs.org/urijs/-/urijs-1.19.1.tgz#5b0ff530c0cbde8386f6342235ba5ca6e995d25a"
+  version "1.19.11"
+  resolved "https://registry.yarnpkg.com/urijs/-/urijs-1.19.11.tgz#204b0d6b605ae80bea54bea39280cdb7c9f923cc"
 
 urix@^0.1.0:
   version "0.1.0"
