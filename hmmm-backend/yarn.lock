@@ -1764,8 +1764,8 @@ cookie@^0.3.1:
   resolved "https://registry.npmjs.org/cookie/-/cookie-0.3.1.tgz#e7e0a1f9ef43b4c8ba925c5c5a96e806d16873bb"
 
 cookiejar@^2.1.0:
-  version "2.1.2"
-  resolved "https://registry.npmjs.org/cookiejar/-/cookiejar-2.1.2.tgz#dd8a235530752f988f9a0844f3fc589e3111125c"
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.4.tgz#ee669c1fea2cf42dc31585469d193fef0d65771b"
 
 cookies@~0.7.1:
   version "0.7.3"
@@ -2286,10 +2286,11 @@ egg-schedule@^3.6.0:
     safe-timers "^1.1.0"
     utility "^1.13.1"
 
-egg-scripts@^2.5.0:
-  version "2.11.0"
-  resolved "https://registry.npmjs.org/egg-scripts/-/egg-scripts-2.11.0.tgz#61c94d7c204ca5f887cc522dd67f95f722169741"
+egg-scripts@^2.12.0:
+  version "2.17.0"
+  resolved "https://registry.yarnpkg.com/egg-scripts/-/egg-scripts-2.17.0.tgz#29f7373ce0863a68573f4f18ea3cbdef26c2c020"
   dependencies:
+    await-event "^2.1.0"
     common-bin "^2.8.0"
     debug "^4.1.0"
     egg-utils "^2.4.1"
